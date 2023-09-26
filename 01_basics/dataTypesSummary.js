@@ -50,3 +50,10 @@ const myFunction = function(){
 
 console.log(typeof myObj);
 
+
+/********************* Memory *************** */
+
+// Stack ( Primitive )
+// Heap ( Non-Primitive)
+
+let myYoutube = "jagdish"; 
